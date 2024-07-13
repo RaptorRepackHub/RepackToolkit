@@ -23,10 +23,12 @@
 - Removed: Repack Software Setup Installer Script Files
 - Removed: Software Data Compressor Tools
 
-#### [⏬Download For Google Drive⏬](https://drive.usercontent.google.com/download?id=11nKfTqs70CAamW5n7sFoIYYoOOOrSMRj&export=download&authuser=0&confirm=t&uuid=84ffbc32-2352-4e4e-9d1b-a44204f1f963&at=APZUnTUV4Kr5lfBhwdu9jOYn1uAq:1720871438728) || [⏬Download For Mega Drive⏬](https://mega.nz/file/AWk3zbgZ#PPWu7gAL0RBsU6fvcnjV22Q3sOLa45D2NvnexAdZLGk)
+# Download Now:
+
+#### [⏬Google Drive⏬](https://drive.usercontent.google.com/download?id=11nKfTqs70CAamW5n7sFoIYYoOOOrSMRj&export=download&authuser=0&confirm=t&uuid=84ffbc32-2352-4e4e-9d1b-a44204f1f963&at=APZUnTUV4Kr5lfBhwdu9jOYn1uAq:1720871438728) || [⏬Mega Drive⏬](https://mega.nz/file/AWk3zbgZ#PPWu7gAL0RBsU6fvcnjV22Q3sOLa45D2NvnexAdZLGk)
 
 # Project Files:
-#### [Bitbucket Project](https://bitbucket.org/raptor_repack/repacktoolkit/src/RepackToolkit) || [GitHub Project](https://github.com/RaptorRepackHub/RepackToolkit)
+#### [Bitbucket](https://bitbucket.org/raptor_repack/repacktoolkit/src/RepackToolkit) || [GitHub](https://github.com/RaptorRepackHub/RepackToolkit)
 
 # Older Versions:
 - No Data
@@ -34,5 +36,5 @@
 # Upcoming Updates:
 - No Official Informations
 
-# Social Media Links:
-### [Follow Me](https://www.x.com/RaptorRepack) || [Subscribe Now](https://www.youtube.com/@RaptorRepack)
+# Social Media:
+#### [Follow Me](https://www.x.com/RaptorRepack) || [Subscribe Now](https://www.youtube.com/@RaptorRepack)
