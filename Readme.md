@@ -3,6 +3,7 @@
 - This Repack Toolkit software fully open-source software and this Repack Toolkit software all data available only this page.
 - This Repack Toolkit software related any kind all help or informations sharing with Twitter, Please follow the Twitter Page.
 - Raptor Repack official Twitter page link in the down side.
+- Raptor Repack official YouTube channel link in the down side.
 
 # Product Informations:
 - Product Name: Repack Toolkit
