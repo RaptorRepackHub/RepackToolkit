@@ -37,4 +37,4 @@
 - No Official Informations
 
 # Social Media:
-#### [Follow Me](https://www.x.com/RaptorRepack) || [Subscribe Now](https://www.youtube.com/@RaptorRepack)
+#### [Twitter](https://www.x.com/RaptorRepack) || [YouTube](https://www.youtube.com/@RaptorRepack)
