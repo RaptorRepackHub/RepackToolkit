@@ -8,7 +8,7 @@
 # Product Informations:
 - Product Name: Repack Toolkit
 - Product Version: v5.0.0.0
-- Product OS Support: Windows 11 23H2-24H2 Pro Editions Only
+- Product OS Support: Windows 11
 - Product Install Space: 348.15 MB
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2024 Co.Inc
