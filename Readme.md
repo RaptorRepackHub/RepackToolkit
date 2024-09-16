@@ -28,8 +28,8 @@
 # Download Now:
 #### [⏬Google Drive⏬](https://drive.usercontent.google.com/download?id=1L3fS3M--Dbee452de0HdZMMX3pWsMNg0&export=download&authuser=1&confirm=t&uuid=399c7080-c41c-4af0-afd0-af530b876105&at=AO7h07cV5BOdKxUT_qQx0ajFYgKm:1725362730457) || [⏬Mega Drive⏬](https://mega.nz/file/wSUmTLjQ#diAhgJs4MEeeYKhS9hf_qqfu0qxO0pfdRtKXUb9CgMQ)
 
-# Project Files:
-#### [Bitbucket](https://bitbucket.org/raptor_repack/repacktoolkit/src/RepackToolkit) || [GitHub](https://github.com/RaptorRepackHub/RepackToolkit)
+# More Project:
+### [Bitbucket](https://bitbucket.org/raptor_repack/repacktoolkit/src/RepackToolkit)
 
 # Older Versions:
 - Repack Toolkit v5.1.0.0 Stable [Click Now](https://mega.nz/file/4SdAlCxK#OC9RLB8W1SpPr75DnnQvq_NnDrI42Cr9awUaao4G3R4)
@@ -39,9 +39,9 @@
 - HyperEngine
 
 # Importent Notes:
-- HyperEngine configuration files modify or default code issues here, some low-end or mid-end users no longer this HyperEngine configuration files.
-- We fixing the minor issuse and very soon the HyperEngine Update.
-- This HyperEngine no version update only for configuration files.
+- HyperEngine configuration files modify or default code issues here and some low-end or mid-end users found poperly not working this HyperEngine configuration files.
+- We fixing the minor issuse and very soon the HyperEngine update.
+- This HyperEngine coming only for configuration files update, not any changes version.
 - Repack Toolkit new developer coming soon...
 - Repack Toolkit program development totally clossed and in the futures opening or not opening the Repack Toolkit development program not sure and stay with us.
 # Social Media:
