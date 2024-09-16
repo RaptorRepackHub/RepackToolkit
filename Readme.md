@@ -36,10 +36,13 @@
 - Repack Toolkit v5.0.0.0 Stable [Click Now](https://drive.usercontent.google.com/download?id=11nKfTqs70CAamW5n7sFoIYYoOOOrSMRj&export=download&authuser=0&confirm=t&uuid=84ffbc32-2352-4e4e-9d1b-a44204f1f963&at=APZUnTUV4Kr5lfBhwdu9jOYn1uAq:1720871438728)
 
 # Upcoming Updates:
-- No Official Informations
+- HyperEngine
 
 # Importent Notes:
-- Repack Toolkit v5.1.1.0 Stable Based On HyperEngine Released.
+- HyperEngine configuration files modify or default code issues here, some low-end or mid-end users no longer this HyperEngine configuration files.
+- We fixing the minor issuse and very soon the HyperEngine Update.
+- This HyperEngine no version update only for configuration files.
+- Repack Toolkit new developer coming soon...
 - Repack Toolkit program development totally clossed and in the futures opening or not opening the Repack Toolkit development program not sure and stay with us.
 # Social Media:
 #### [Twitter](https://www.x.com/RaptorRepack) || [YouTube](https://www.youtube.com/@RaptorRepack)
