@@ -39,7 +39,7 @@
 - HyperEngine
 
 # Importent Notes:
-- HyperEngine configuration files modify or default code issues here and some low-end or mid-end users found poperly not working this HyperEngine configuration files.
+- HyperEngine configuration files modify or default code issues and some low-end or mid-end device users found poperly not working this HyperEngine configuration files.
 - We fixing the minor issuse and very soon the HyperEngine update.
 - This HyperEngine coming only for configuration files update, not any changes version.
 - Repack Toolkit new developer coming soon...
